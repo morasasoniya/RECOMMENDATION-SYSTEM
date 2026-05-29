@@ -12,7 +12,7 @@
 
 *MENTOR*: Neela Santhosh Kumar 
 
-#DESCRPOTION
+#DESCRPTION
 
 A Recommendation System is a type of information filtering system that predicts user preferences and suggests relevant items such as products, movies, music, or services. It plays a crucial role in modern digital platforms by helping users discover content tailored to their interests, thereby improving user experience and engagement.
 
